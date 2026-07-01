@@ -1,0 +1,100 @@
+canonical_identifier: bkk:krp/KR6i0370/X/v1
+canonical_location: https://kanripo.org/bkk/KR6i0370/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 盂蘭盆經疏孝衡鈔
+  identifiers:
+    krp: KR6i0370
+    cbeta: X21n0375
+    cbeta_old_id: X21n0375
+    authorityid: CA0003840
+    json_key: X0375
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X21/X21n0375.xml
+    old_id: X21n0375
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0370_000-X.yaml, hash: 'sha256:5c51e0e02e5278ed06ae08ab1f11831f229ee9ff7a91d3fe3dc87b354465f3ff'}
+  - {seq: 1, filename: KR6i0370_001-X.yaml, hash: 'sha256:5ba51e8caaac7f8a83d6c23ad74fe44fd2abbdbf77963dc87077914db741a781'}
+  - {seq: 2, filename: KR6i0370_002-X.yaml, hash: 'sha256:323b3f82cda9b169dabbfb15a4d2133ddb79a3639beddd83a045d1d936d3cfbf'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0370_000-X.markers.yaml, hash: 'sha256:9045afa8fd5b0187bcd29cd738072f90cd1a6024dfb21a90682ae2788594a8bb'}
+  - {seq: 1, role: markers, filename: assets/KR6i0370_001-X.markers.yaml, hash: 'sha256:08d63d75d63b0985af116b24b46351706a93b48f9798eea602d5104b70d301f3'}
+  - {seq: 2, role: markers, filename: assets/KR6i0370_002-X.markers.yaml, hash: 'sha256:10051b89044648e3e4bd7c285f29d81ef3e5fcf616c45fe80e1436120404a70a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0370_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 375-A 佛說盂蘭盆經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0370_X_000-mulu-2
+    span:
+    - front
+    - 748
+    - 748
+  label: No. 375-B
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0370_X_000-mulu-3
+    span:
+    - front
+    - 748
+    - 748
+  label: 報父母恩呪
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0370_X_000-mulu-4
+    span:
+    - front
+    - 788
+    - 788
+  label: 七月十五日盂蘭盆念誦式
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0370_X_000-mulu-5
+    span:
+    - front
+    - 1327
+    - 1327
+  label: 佛說盂蘭盆經疏并序孝衡鈔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0370_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 26466
+  label: 佛說盂蘭盆經疏并序孝衡鈔卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0370_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 20787
+  label: 佛說盂蘭盆經疏孝衡鈔卷下
+  type: juan
+  level: 1
+hash: sha256:de078311d33e99decd43b6991fa3c207b2bd1d32d0f74fcb02a5836158de9592
