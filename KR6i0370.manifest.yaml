@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0370/v1
 canonical_location: https://kanripo.org/bkk/KR6i0370/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 盂蘭盆經疏孝衡鈔
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0370_000.yaml, hash: 'sha256:5c51e0e02e5278ed06ae08ab1f11831f229ee9ff7a91d3fe3dc87b354465f3ff'}
-  - {seq: 1, filename: KR6i0370_001.yaml, hash: 'sha256:5ba51e8caaac7f8a83d6c23ad74fe44fd2abbdbf77963dc87077914db741a781'}
-  - {seq: 2, filename: KR6i0370_002.yaml, hash: 'sha256:323b3f82cda9b169dabbfb15a4d2133ddb79a3639beddd83a045d1d936d3cfbf'}
+  - {seq: 0, filename: KR6i0370_000.yaml, hash: 'sha256:1c1abd1ece2942f8f5ec02dfd2ff58a0026c3f2b85cc83bfd35b85dd3c5cedc0'}
+  - {seq: 1, filename: KR6i0370_001.yaml, hash: 'sha256:ce3ed9250373b8eb3d2f39ecf085c12a1b33cbf6e9ee69bb67d9ad813e48400e'}
+  - {seq: 2, filename: KR6i0370_002.yaml, hash: 'sha256:eda7075cb2d95fe10667a23595d1e8b11df69729b38797766d299e944a104ab9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0370_000.markers.yaml, hash: 'sha256:5ea69cffd24175f337a098d1b98b03d68f44687076dee185f5d5730e04fd8634'}
-  - {seq: 1, role: markers, filename: assets/KR6i0370_001.markers.yaml, hash: 'sha256:84cfcb3ba43917dc9fe327a858e58ad5dd00cd273c6f09211b093cdbbc6919ae'}
-  - {seq: 2, role: markers, filename: assets/KR6i0370_002.markers.yaml, hash: 'sha256:6b887054b7cc4b85a22732d45ce36eb06259bca070d0dc0f23a3639a3b1fed2d'}
+  - {seq: 0, role: markers, filename: assets/KR6i0370_000.markers.yaml, hash: 'sha256:bcdcfc5c44b63956fc16d1ab6ca5402863351d2d40050430f22e87e2f74aebaf'}
+  - {seq: 1, role: markers, filename: assets/KR6i0370_001.markers.yaml, hash: 'sha256:b540353852f0ce175413cb2a557dbffa9d0e318346c7348b390ea4038f9d219b'}
+  - {seq: 2, role: markers, filename: assets/KR6i0370_002.markers.yaml, hash: 'sha256:f567e89e53a5f158e9ecb26c2efc40e1dd60f77a4fd594e3813481c49fb0198c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -99,4 +99,7 @@ table_of_contents:
   label: 佛說盂蘭盆經疏孝衡鈔卷下
   type: juan
   level: 1
-hash: sha256:ae6080b6e8c2d28c6438d03482b22f3600e0d956cf87917b072c7f06a6334e4c
+hash: sha256:e98ab3be7502333acba67d62aeb6cc0aca09f875aa1a9bb2d5af7d5f260d39c0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
