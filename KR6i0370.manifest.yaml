@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0370_000.yaml, hash: 'sha256:1c1abd1ece2942f8f5ec02dfd2ff58a0026c3f2b85cc83bfd35b85dd3c5cedc0'}
+  - {seq: 0, filename: KR6i0370_000.yaml, hash: 'sha256:5181c032b988e770516b8b37a6e986758837c9b53b09646386e35e18b300125e'}
   - {seq: 1, filename: KR6i0370_001.yaml, hash: 'sha256:ce3ed9250373b8eb3d2f39ecf085c12a1b33cbf6e9ee69bb67d9ad813e48400e'}
   - {seq: 2, filename: KR6i0370_002.yaml, hash: 'sha256:eda7075cb2d95fe10667a23595d1e8b11df69729b38797766d299e944a104ab9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0370_000.markers.yaml, hash: 'sha256:bcdcfc5c44b63956fc16d1ab6ca5402863351d2d40050430f22e87e2f74aebaf'}
+  - {seq: 0, role: markers, filename: assets/KR6i0370_000.markers.yaml, hash: 'sha256:9eca15a9548481398ea5e4a350b8f63e5ae84f3475d40757a7c6639611048ab9'}
   - {seq: 1, role: markers, filename: assets/KR6i0370_001.markers.yaml, hash: 'sha256:b540353852f0ce175413cb2a557dbffa9d0e318346c7348b390ea4038f9d219b'}
   - {seq: 2, role: markers, filename: assets/KR6i0370_002.markers.yaml, hash: 'sha256:f567e89e53a5f158e9ecb26c2efc40e1dd60f77a4fd594e3813481c49fb0198c'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0370_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 375-A 佛說盂蘭盆經
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0370_X_000-mulu-2
     span:
-    - front
+    - body
     - 748
     - 748
   label: No. 375-B
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0370_X_000-mulu-3
     span:
-    - front
+    - body
     - 748
     - 748
   label: 報父母恩呪
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0370_X_000-mulu-4
     span:
-    - front
+    - body
     - 788
     - 788
   label: 七月十五日盂蘭盆念誦式
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0370_X_000-mulu-5
     span:
-    - front
+    - body
     - 1327
     - 1327
   label: 佛說盂蘭盆經疏并序孝衡鈔
@@ -99,7 +99,7 @@ table_of_contents:
   label: 佛說盂蘭盆經疏孝衡鈔卷下
   type: juan
   level: 1
-hash: sha256:e98ab3be7502333acba67d62aeb6cc0aca09f875aa1a9bb2d5af7d5f260d39c0
+hash: sha256:ce72a843e90b9421253203df09d1e299cef884d808fa4d70bfe6064588e0fef0
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
